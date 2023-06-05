@@ -1,0 +1,11 @@
+service 1j_00h49m30s CHARLES : Hennessy_Gingembre ;
+quoi [1j_01h29m18s,1j_01h34m48s] ;
+max [0j_19h10m41s,0j_22h20m49s] ;
+quoi [1j_01h10m25s,1j_03h03m10s] ;
+qui [0j_20h17m27s,0j_22h48m17s] ;
+service 0j_21h18m32s MEGAN : Zombie ;
+service 0j_22h57m51s NAOMI : Bling ;
+max [0j_21h18m16s,1j_00h59m36s] ;
+qui [1j_00h57m03s,1j_01h58m47s] Bling ;
+presences [0j_23h38m17s,1j_01h31m44s] ;
+presences [0j_08h59m13s,0j_14h06m16s] ;

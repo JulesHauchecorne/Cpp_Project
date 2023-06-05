@@ -1,0 +1,35 @@
+OK
+OK
+OK
+OK
+Alice (1) 
+Alice (1) Benoit (1) 
+--
+Daiquiri_Framboise (1) Eau (1) 
+Daiquiri_Fraise (1) Jus_Orange (1) 
+Daiquiri_Fraise (1) Daiquiri_Framboise (1) Eau (1) Jus_Orange (1) 
+--
+--
+0
+0
+0
+OK
+OK
+--
+--
+0
+OK
+OK
+OK
+OK
+Alice (1) Celine (3) 
+Alice (1) Benoit (1) Celine (4) 
+--
+Daiquiri_Fraise (1) Jus_Orange (2) 
+Daiquiri_Fraise (2) Eau (3) Jus_Orange (2) Vodka_Canneberges (1) 
+Daiquiri_Fraise (2) Daiquiri_Framboise (1) Eau (4) Jus_Orange (3) Margarita (1) Vodka_Canneberges (1) 
+--
+--
+0
+0
+0

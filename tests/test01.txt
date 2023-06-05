@@ -1,0 +1,18 @@
+service 0j_17h30m00s Eric : Banana_mama ;
+service 0j_18h10m00s Eric : Amarante ;
+service 0j_17h30m15s Kim : Amarante Eau ;
+service 0j_17h42m30s Marie : Jus_Orange ;
+service 0j_18h30m15s Kim : Amarante Amarante ;
+service 0j_19h42m30s Marie : Eau ;
+qui [0j_00h00m00s,0j_23h59m59s] Amarante ;
+qui [0j_00h00m00s,0j_23h59m59s] Eau Jus_Orange ;
+qui [0j_00h00m00s,0j_11h59m59s] ;
+quoi [0j_00h00m00s,0j_23h59m59s] Eric Kim ;
+quoi [0j_00h00m00s,0j_23h59m59s] Marie ;
+quoi [0j_00h00m00s,0j_23h59m59s] ;
+presences [0j_00h00m00s,0j_23h59m59s] ;
+presences [0j_00h00m00s,0j_10h00m00s] ;
+max [0j_00h00m00s,0j_23h59m59s] ;
+max [0j_00h00m00s,0j_10h00m00s] ;
+service 0j_19h00m00s Alexandre : Breeze_canneberge ;
+service 0j_19h00m00s Pascal : Breeze_canneberge ;
